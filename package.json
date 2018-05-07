@@ -1,0 +1,9 @@
+{
+  "name": "myLib",
+  "main": "./es/index.js",
+  "jsnext:main": "./es/index.js",
+  "module": "./es/index.js",
+  "files": [
+    "es"
+  ]
+}
